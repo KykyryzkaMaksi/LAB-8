@@ -1,0 +1,9 @@
+.vs/
+out/
+build/
+*.user
+
+# База даних SQLite
+*.db
+
+vcpkg_installed/
